@@ -1,0 +1,24 @@
+java script operators 
+arthemetic operatorsa+b
+assignment operatorsa=10
+string operators
+comparison operators eg:==(cmp),=(assigment),===(datatype checking)
+increment operators++
+postfix
+b++
+prefix
+++b
+decrement operators(--)
+logical operators
+and,or
+
+value datatype
+object{} key value pair a:b
+. operator is used to  get one single value
+array []
+array pushing
+arrayname.push("content");
+**java script executes code line by line
+
+
+
